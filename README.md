@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m VIKRANTH V<br> || B.Tech IT Student || iStart Member @ KIOT || ISTE Member ||<br>🛠️ Code explorer: C | C++ | Python | Java | HTML | MySQL | CSS | JavaScript<br>🚀 Love turning ideas into projects and learning something new every day
+👋 Hey there! I’m VIKRANTH V<br> || B.Tech IT Student || iStart Member @ KIOT || ISTE Member ||<br>🚀 Love turning ideas into projects and learning something new every day
 
 
 ## 🌐 Socials:
