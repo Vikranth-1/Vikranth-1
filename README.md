@@ -1,5 +1,5 @@
 # <img src="https://api.iconify.design/lucide:user.svg?color=%23ffd700" width="22" height="22" style="vertical-align: middle;"/> About Me
-| <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23ffd700" width="16" height="16" style="vertical-align: middle;"/> B.Tech IT Student | Treasurer IEEE(CIS) @ KIOT | iStart Member @ KIOT | ISTE Member | Tech Enthusiast | Passionate Learner |
+| <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23ffd700" width="16" height="16" style="vertical-align: middle;"/> B.Tech IT Student | Treasurer IEEE (CIS) @ KIOT | iStart Member @ KIOT |
 
 ## <img src="https://api.iconify.design/lucide:globe.svg?color=%23ffd700" width="18" height="18" style="vertical-align: middle;"/> Connect With Me
 <p align="left">
@@ -8,9 +8,6 @@
   </a>
   <a href="mailto:vvikranth08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Vikranth-1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
